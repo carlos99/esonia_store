@@ -1,0 +1,9 @@
+This is a complete web application that implements Stripe payment gateway. 
+
+You are able to upload a product, buy a product, process the payment and integrate mailing with Mandrill. 
+
+The application has the correct authentication system and the necessary security precautions.
+
+The user will be able to see the history of purchases
+
+The application will implement backworkers in order to handle errors in payment process
